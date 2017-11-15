@@ -1,2 +1,1 @@
-# Higher-Order-Link-Prediction
-# Higher-Order-Link-Prediction
+# Link Prediction using Higher Order Structures in Common Neighborhood
